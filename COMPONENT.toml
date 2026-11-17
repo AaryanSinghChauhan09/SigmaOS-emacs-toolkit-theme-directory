@@ -3,7 +3,7 @@ name = "SigmaOS-emacs-toolkit-theme-directory"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "emacs-toolkit-theme-directory component"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
